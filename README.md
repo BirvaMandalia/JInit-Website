@@ -1,1 +1,1 @@
-# JInit-Website
+# Responsive-website
